@@ -1,2 +1,3 @@
-# mini-store
-mini-store
+# Mini Store
+
+Описание проекта mini-store.
